@@ -1,7 +1,7 @@
 name: bharatcode-provider
 kind: model-provider
 version: 1.0.0
-description: BharatCode AI models via OpenAI-compatible API
+description: BharatCode models via OpenAI-compatible API
 author: Navya Gupta
 requires_env:
   - name: BHARATCODE_API_KEY

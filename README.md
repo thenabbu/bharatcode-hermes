@@ -1,6 +1,6 @@
 # bharatcode-hermes
 
-[BharatCode AI](https://bharatcode.ai) model provider plugin for
+[BharatCode](https://bharatcode.ai) model provider plugin for
 [Hermes Agent](https://github.com/NousResearch/hermes-agent) — listed in the
 Hermes plugin catalog as `bharatcode-provider`.
 
